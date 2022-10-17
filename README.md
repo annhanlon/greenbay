@@ -16,7 +16,7 @@
 
 # Introduction
 
-This is a sample visual essay to demonstrate how to use Juncture for the a workshop at the Cofrin Library at the University of Wisconsin-Green Bay. The banner image features an 1867 map of Green Bay and Fort Howard[^1]. The first image featured in this essay is an image of ...
+This is a sample visual essay to demonstrate how to use Juncture for the a workshop at the Cofrin Library at the University of Wisconsin-Green Bay. The banner image features a photograph of a downtown Green Bay mural taken in 2016 [^1]. The first image featured in this essay is an image of ...
 <param ve-image 
        url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
@@ -72,5 +72,4 @@ This object from the Harvard University Digital Collections is a book with multi
        
 # References
 
-[^1]: A. Ruger, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Green_Bay_1867.jpg)
-
+[^1]: Michael Steeber from USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Downtown_Mural-_Green_Bay,_WI_-_Flickr_-_MichaelSteeber.jpg)
