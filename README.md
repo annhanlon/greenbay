@@ -23,9 +23,9 @@ This is a sample visual essay to demonstrate how to use Juncture for the a works
        
 ## Fit to contain
 
-Same image, from the UW Madison Digital Collections. This image uses the fit=contain parameter to make sure the default view is the entire image. 
+The image above, from the UW Madison Digital Collections, is not using the IIIF manifest so it can't use many of the functions Juncture makes possible. For example, this image of Ellison Bay from the UWM Digital Collections is using IIIF manifest, and can use the fit=contain parameter to make sure the default view is the entire image. 
 <param ve-image fit="contain"
-       manifest="https://asset.library.wisc.edu/iiif/1711.dl%2FS5FOMADT6D5BH85/full/full/0/default.jpg">
+       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agsnorth/8789/manifest.json">
 
 ## Image without zoom
 
