@@ -9,13 +9,14 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q206194"> <!-- Citadelle Laferrière -->
-<param ve-entity eid="Q353458"> <!-- Henri Christophe -->
+<param ve-entity eid="Q47430"> <!-- Green Bay -->
+<param ve-entity eid="Q2378091"> <!-- University of Wisconsin-Green Bay -->
+<param ve-entity eid="Q178193"> <!-- steamboat -->
 
 
 # Introduction
 
-This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2022 Summer Workshop. The banner image features Haiti's Citadelle Laferrière, photographed from an airplane in 1920[^1]. The first image featured in this essay is also an image of Citadelle Laferrière, from 1935.
+This is a sample visual essay to demonstrate how to use Juncture for the a workshop at the Cofrin Library at the University of Wisconsin-Green Bay. The banner image features an 1867 map of Green Bay and Fort Howard[^1]. The first image featured in this essay is an image of ...
 <param ve-image 
        url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
