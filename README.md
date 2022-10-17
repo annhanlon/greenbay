@@ -21,11 +21,11 @@ This is a sample visual essay to demonstrate how to use Juncture for the a works
        url="https://asset.library.wisc.edu/iiif/1711.dl%2FS5FOMADT6D5BH85/full/full/0/default.jpg">
 
        
-## From the UW Madison Digital Collections - using IIIF
+## Fit to contain
 
-From the UW Madison Digital Collections. This image uses the fit=contain parameter to make sure the default view is the entire image. You can find the record here: [https://collections.si.edu/search/detail/edanmdm:siris_sic_13621](https://collections.si.edu/search/detail/edanmdm:siris_sic_13621)
+Same image, from the UW Madison Digital Collections. This image uses the fit=contain parameter to make sure the default view is the entire image. 
 <param ve-image fit="contain"
-       manifest="https://ids.si.edu/ids/manifest/SIA-SIA2010-0721">
+       manifest="https://asset.library.wisc.edu/iiif/1711.dl%2FS5FOMADT6D5BH85/full/full/0/default.jpg">
 
 ## Image without zoom
 
