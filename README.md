@@ -18,7 +18,7 @@
 
 This is a sample visual essay to demonstrate how to use Juncture for the a workshop at the Cofrin Library at the University of Wisconsin-Green Bay. The banner image features a photograph of a downtown Green Bay mural taken in 2016 [^1]. The first image featured in this essay is an image of the James Baudhuin farm, 1976, from the University of Wisconsin - Green Bay. Cofrin Library Belgian-American Research Collection
 <param ve-image 
-       url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
+       url="https://asset.library.wisc.edu/iiif/1711.dl%2FS5FOMADT6D5BH85/full/full/0/default.jpg">
 
        
 ## From the UW Madison Digital Collections - using IIIF
