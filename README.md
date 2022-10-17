@@ -72,5 +72,5 @@ This object from the Harvard University Digital Collections is a book with multi
        
 # References
 
-[^1]: Citadelle Laferrière, Haiti, 1920, Archives Branch, USMC History Division, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re,_Haiti,_1920_-_49810176056.jpg)
+[^1]: A. Ruger, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Green_Bay_1867.jpg)
 
