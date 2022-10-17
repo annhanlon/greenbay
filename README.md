@@ -3,7 +3,7 @@
 <param ve-config 
        title="UW Green Bay Cofrin Library 2022 Workshop"
        author="Ann Hanlon"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/3/31/Green_Bay_1867.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/be/Downtown_Mural-_Green_Bay%2C_WI_-_Flickr_-_MichaelSteeber.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
