@@ -16,14 +16,14 @@
 
 # Introduction
 
-This is a sample visual essay to demonstrate how to use Juncture for the a workshop at the Cofrin Library at the University of Wisconsin-Green Bay. The banner image features a photograph of a downtown Green Bay mural taken in 2016 [^1]. The first image featured in this essay is an image of ...
+This is a sample visual essay to demonstrate how to use Juncture for the a workshop at the Cofrin Library at the University of Wisconsin-Green Bay. The banner image features a photograph of a downtown Green Bay mural taken in 2016 [^1]. The first image featured in this essay is an image of the James Baudhuin farm, 1976, from the University of Wisconsin - Green Bay. Cofrin Library Belgian-American Research Collection
 <param ve-image 
        url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
        
-## Port au Prince: IIIF image "to fit"
+## From the UW Madison Digital Collections - using IIIF
 
-From the Smithsonian Institution collections - small boats in harbor at Port au Prince, 1923-24. This image uses the fit=contain parameter to make sure the default view is the entire image. You can find the record here: [https://collections.si.edu/search/detail/edanmdm:siris_sic_13621](https://collections.si.edu/search/detail/edanmdm:siris_sic_13621)
+From the UW Madison Digital Collections. This image uses the fit=contain parameter to make sure the default view is the entire image. You can find the record here: [https://collections.si.edu/search/detail/edanmdm:siris_sic_13621](https://collections.si.edu/search/detail/edanmdm:siris_sic_13621)
 <param ve-image fit="contain"
        manifest="https://ids.si.edu/ids/manifest/SIA-SIA2010-0721">
 
