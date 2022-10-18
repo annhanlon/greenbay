@@ -43,14 +43,6 @@ In this map, you can also see the island of <span data-click-image-zoomto="1496,
 <param ve-image  
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agdm/1435/manifest.json">
 
-## Map
-
-The Citadelle Laferrière is several miles inland from Cap-Haitien. We are using the map information from Wikidata to create the map to right.
-<param ve-map center="Q206194">
-
-Lat/long based map - using decimal-based lat/long for Port-au-Prince
-<param ve-map center="18.5425, -72.338611" zoom="10">
-
 
 ## Video
 
