@@ -25,7 +25,7 @@ This is a sample visual essay to demonstrate how to use Juncture for the a works
 
 The image above, from the UW Madison Digital Collections, is not using the IIIF manifest so it can't use many of the functions Juncture makes possible. For example, this image of Ellison Bay from the UWM Digital Collections is using IIIF manifest, and can use the fit=contain parameter to make sure the default view is the entire image. 
 <param ve-image fit="contain"
-       manifest="https://cdm17272.contentdm.oclc.org/iiif/info/agsnorth/8789/manifest.json">
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsafrica/1001/manifest.json">
 
 ## Image without zoom
 
